@@ -1,2 +1,0 @@
-# .github
-General GH utils
